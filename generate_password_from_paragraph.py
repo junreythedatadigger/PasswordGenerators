@@ -1,0 +1,1 @@
+print("This code with generate password for paragraph.")
